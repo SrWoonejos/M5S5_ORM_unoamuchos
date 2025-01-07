@@ -36,8 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
-    'myapp', # Add this line to include the app in the project
+    'django.contrib.staticfiles', 
+    'productos',# Add this line to include the app in the project
 ]
 
 MIDDLEWARE = [
